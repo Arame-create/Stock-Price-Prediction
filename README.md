@@ -13,9 +13,7 @@ This repository contains an interactive Jupyter Notebook designed to perform sto
 
 **Getting Started**
 
-You will need to install from statsmodels...and ipywidgets pip using the following command:
-
-* !pip install seaborn         
+You will need to install from ipywidgets pip using the following command:         
 
 * !pip install ipywidgets    
 
